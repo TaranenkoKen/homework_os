@@ -13,8 +13,9 @@ ls
 ```
 
 Результат:
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="1215" height="705" alt="image" src="https://github.com/user-attachments/assets/4085747f-1c49-47d4-9e31-f90cb2725a47" />
+<img width="1215" height="639" alt="image" src="https://github.com/user-attachments/assets/50d7b042-ff93-4328-8239-3f1f53cc678e" />
+
 
 ## Завдання 2. Файли, каталоги та посилання
 
@@ -37,7 +38,8 @@ find /home -name "file.txt"
 ```
 
 Результат:
-![alt text](image-3.png)
+<img width="1214" height="218" alt="image" src="https://github.com/user-attachments/assets/0acfce6f-b766-4aa0-bb48-999a9384a8fa" />
+
 
 ## Завдання 3. Права доступу
 
@@ -54,7 +56,9 @@ umask 022
 ```
 
 Результат:
-![alt text](image-4.png)
+<img width="1210" height="199" alt="image" src="https://github.com/user-attachments/assets/1a297e29-4518-45bb-835f-5ef0cedd9fbf" />
+
+
 
 
 ## Завдання 4. Користувачі
@@ -68,6 +72,8 @@ getent passwd trainee
 ```
 
 Результат:
-![alt text](image-5.png)
-![alt text](image-6.png)
+<img width="1228" height="153" alt="image" src="https://github.com/user-attachments/assets/4123b7e4-a309-4a1e-9cfa-d9e298fb0d6f" />
+<img width="1211" height="44" alt="image" src="https://github.com/user-attachments/assets/704350fd-019e-497e-affa-b573bf2a17b6" />
+
+
 
