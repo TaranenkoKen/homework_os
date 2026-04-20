@@ -46,9 +46,9 @@ find /home -name "file.txt"
 ```bash
 ls -l file.txt
 
-chmod 644 file.txt
+chmod 444 file.txt
 
-chmod u+w file.txt
+chmod 644 file.txt
 
 umask
 
