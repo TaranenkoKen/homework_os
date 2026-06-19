@@ -27,8 +27,6 @@ CONTAINER ID   IMAGE              COMMAND                  CREATED        STATUS
 
 ## 2. Процес усередині контейнера (PID 1)
 
-У `python:3.11-alpine` немає утиліти `ps`, тому дивимось через `/proc`:
-
 ```bash
 docker exec os_analytics_container cat /proc/1/status | head -5
 docker exec os_analytics_container cat /proc/1/cmdline | tr '\0' ' '
